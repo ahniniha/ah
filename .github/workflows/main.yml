@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  rdpAH:
+  ah1:
     runs-on: windows-latest
     timeout-minutes: 350
 
